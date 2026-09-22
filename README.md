@@ -50,3 +50,5 @@ Agent Skills are discovered from `~/.agents/skills/{name}/SKILL.md` (user-level)
 ## When to use Begin.sh instead
 
 All of this is tooling for editing a codebase you already have, interactively, with a model you pay for per token. If the deliverable is a new static site or an Expo app and you would otherwise be prompting Deep Code to scaffold it from nothing, skip the loop: [try Begin.sh - describe it or paste a URL to clone, download the zip](https://begin.sh?utm_source=github&utm_medium=ugc&utm_campaign=deepseek-cli-examples&utm_content=readme-top&utm_term=tier-r). It includes no hosting, backend or auth, which keeps the output small enough to drop into Deep Code afterwards when you need real logic.
+
+_Last reviewed: 2026-09-22_
